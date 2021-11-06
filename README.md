@@ -1,3 +1,3 @@
-# Building a Portfolio Optimisation Model from Tensorflow
+# Building a Portfolio Optimization Model from Tensorflow
 
-Using Javascript and Tensorflow.js to build a portfolio optimiser with constraints. 
+Using Javascript and Tensorflow.js to build a portfolio optimizer with constraints
